@@ -1,31 +1,32 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: putty182
+repo: upptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Plex
+    url: $SITES_URL_PLEX
+  - name: Media Storage
+    url: $SITES_URL_STORAGE
+    method: POST
+    headers:
+      - "Authorization: $SITES_URL_STORAGE_AUTHZ"
+    __dangerous__body_down_if_text_missing: '"result": "AOK\n"'
+  - name: Requests
+    url: $SITES_URL_REQUESTS
+  - name: Downloads
+    url: $SITES_URL_DOWNLOADS
+  - name: TV Manager
+    url: $SITES_URL_TV_MANAGER
+    headers:
+      - "x-api-key: $SITES_URL_TV_MANAGER_AUTHZ"
+  - name: Movie Manager
+    url: $SITES_URL_MOVIE_MANAGER
+    headers:
+      - "x-api-key: $SITES_URL_MOVIE_MANAGER_AUTHZ"
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  cname: status.c17.in
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  name: "Upptime"
+  introTitle: ""
+  introMessage: ""
+  navbar: []
