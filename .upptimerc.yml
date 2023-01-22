@@ -16,12 +16,8 @@ sites:
     url: $SITES_URL_DOWNLOADS
   - name: TV Manager
     url: $SITES_URL_TV_MANAGER
-    headers:
-      - "x-api-key: $SITES_URL_TV_MANAGER_AUTHZ"
   - name: Movie Manager
     url: $SITES_URL_MOVIE_MANAGER
-    headers:
-      - "x-api-key: $SITES_URL_MOVIE_MANAGER_AUTHZ"
 
 status-website:
   cname: status.c17.in
