@@ -1,7 +1,7 @@
 url: $SITES_URL_STORAGE
-status: up
-code: 200
-responseTime: 534
-lastUpdated: 2023-01-22T12:23:42.142Z
+status: down
+code: 405
+responseTime: 496
+lastUpdated: 2023-01-22T12:45:32.952Z
 startTime: Sun Jan 22 2023 12:13:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
