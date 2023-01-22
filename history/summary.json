@@ -40,18 +40,20 @@
     "url": "$SITES_URL_STORAGE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "media-storage",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 610,
-    "timeDay": 610,
-    "timeWeek": 610,
-    "timeMonth": 610,
-    "timeYear": 610,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
+    "time": 582,
+    "timeDay": 582,
+    "timeWeek": 582,
+    "timeMonth": 582,
+    "timeYear": 582,
+    "dailyMinutesDown": {
+      "2023-01-22": 0
+    }
   },
   {
     "name": "Media Fetcher",
