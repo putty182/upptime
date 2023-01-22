@@ -6,7 +6,7 @@ sites:
     url: $SITES_URL_PLEX
   - name: Requests
     url: $SITES_URL_REQUESTS
-   - name: Media Fetcher
+  - name: Media Fetcher
     url: $SITES_URL_DOWNLOADS
   - name: TV Manager
     url: $SITES_URL_TV_MANAGER
