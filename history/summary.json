@@ -40,19 +40,19 @@
     "url": "$SITES_URL_STORAGE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "media-storage",
-    "status": "down",
-    "uptime": "65.70%",
-    "uptimeDay": "65.70%",
-    "uptimeWeek": "65.70%",
-    "uptimeMonth": "65.70%",
-    "uptimeYear": "65.70%",
-    "time": 591,
-    "timeDay": 591,
-    "timeWeek": 591,
-    "timeMonth": 591,
-    "timeYear": 591,
+    "status": "up",
+    "uptime": "63.68%",
+    "uptimeDay": "63.68%",
+    "uptimeWeek": "63.68%",
+    "uptimeMonth": "63.68%",
+    "uptimeYear": "63.68%",
+    "time": 593,
+    "timeDay": 593,
+    "timeWeek": 593,
+    "timeMonth": 593,
+    "timeYear": 593,
     "dailyMinutesDown": {
-      "2023-01-22": 163
+      "2023-01-22": 178
     }
   },
   {
