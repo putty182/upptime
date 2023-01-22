@@ -4,15 +4,15 @@ repo: upptime
 sites:
   - name: Plex
     url: $SITES_URL_PLEX
+  - name: Requests
+    url: $SITES_URL_REQUESTS
   - name: Media Storage
     url: $SITES_URL_STORAGE
     method: POST
     headers:
       - "Authorization: $SITES_URL_STORAGE_AUTHZ"
     __dangerous__body_down_if_text_missing: '"result": "AOK\n"'
-  - name: Requests
-    url: $SITES_URL_REQUESTS
-  - name: Downloads
+  - name: Media Fetcher
     url: $SITES_URL_DOWNLOADS
   - name: TV Manager
     url: $SITES_URL_TV_MANAGER
