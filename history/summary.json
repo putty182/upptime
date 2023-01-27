@@ -4,18 +4,20 @@
     "url": "$SITES_URL_PLEX",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 565,
-    "timeDay": 524,
-    "timeWeek": 565,
-    "timeMonth": 565,
-    "timeYear": 565,
-    "dailyMinutesDown": {}
+    "time": 576,
+    "timeDay": 609,
+    "timeWeek": 576,
+    "timeMonth": 576,
+    "timeYear": 576,
+    "dailyMinutesDown": {
+      "2023-01-27": 0
+    }
   },
   {
     "name": "Requests",
