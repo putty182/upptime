@@ -22,19 +22,19 @@
     "url": "$SITES_URL_REQUESTS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "requests",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 594,
-    "timeDay": 604,
-    "timeWeek": 594,
-    "timeMonth": 594,
-    "timeYear": 594,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 598,
+    "timeDay": 615,
+    "timeWeek": 598,
+    "timeMonth": 598,
+    "timeYear": 598,
     "dailyMinutesDown": {
-      "2023-01-27": 0
+      "2023-01-27": 3
     }
   },
   {
