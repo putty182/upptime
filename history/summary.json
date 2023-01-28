@@ -4,7 +4,7 @@
     "url": "$SITES_URL_PLEX",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
     "uptimeDay": "95.33%",
     "uptimeWeek": "99.15%",
