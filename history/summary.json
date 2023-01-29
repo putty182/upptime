@@ -5,39 +5,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "99.06%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.06%",
-    "uptimeYear": "99.06%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1364,
-    "timeDay": 706,
-    "timeWeek": 1364,
+    "timeDay": 680,
+    "timeWeek": 1494,
     "timeMonth": 1364,
     "timeYear": 1364,
-    "dailyMinutesDown": {
-      "2023-01-28": 48,
-      "2023-01-27": 41
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Requests",
     "url": "$SITES_URL_REQUESTS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "requests",
-    "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 608,
-    "timeDay": 712,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 609,
+    "timeDay": 669,
     "timeWeek": 608,
-    "timeMonth": 608,
-    "timeYear": 608,
+    "timeMonth": 609,
+    "timeYear": 609,
     "dailyMinutesDown": {
-      "2023-01-27": 12
+      "2023-01-29": 0
     }
   },
   {
@@ -46,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "media-fetcher",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 606,
     "timeDay": 711,
-    "timeWeek": 606,
+    "timeWeek": 616,
     "timeMonth": 606,
     "timeYear": 606,
-    "dailyMinutesDown": {
-      "2023-01-27": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TV Manager",
@@ -66,19 +61,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tv-manager",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 580,
     "timeDay": 701,
-    "timeWeek": 580,
+    "timeWeek": 577,
     "timeMonth": 580,
     "timeYear": 580,
-    "dailyMinutesDown": {
-      "2023-01-27": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Movie Manager",
