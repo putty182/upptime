@@ -4,21 +4,18 @@
     "url": "$SITES_URL_PLEX",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1120,
-    "timeDay": 499,
-    "timeWeek": 598,
-    "timeMonth": 1120,
-    "timeYear": 1120,
-    "dailyMinutesDown": {
-      "2023-02-06": 0,
-      "2023-01-30": 2
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1105,
+    "timeDay": 547,
+    "timeWeek": 603,
+    "timeMonth": 1105,
+    "timeYear": 1105,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Requests",
@@ -26,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "requests",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 635,
     "timeDay": 546,
     "timeWeek": 695,
     "timeMonth": 635,
     "timeYear": 635,
-    "dailyMinutesDown": {
-      "2023-01-29": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Media Fetcher",
@@ -46,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "media-fetcher",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 608,
     "timeDay": 511,
     "timeWeek": 607,
     "timeMonth": 608,
     "timeYear": 608,
-    "dailyMinutesDown": {
-      "2023-01-30": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TV Manager",
@@ -84,18 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "movie-manager",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 590,
     "timeDay": 513,
     "timeWeek": 597,
     "timeMonth": 590,
     "timeYear": 590,
-    "dailyMinutesDown": {
-      "2023-01-30": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
