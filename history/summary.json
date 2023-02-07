@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1105,
-    "timeDay": 547,
-    "timeWeek": 603,
-    "timeMonth": 1105,
-    "timeYear": 1105,
+    "time": 1093,
+    "timeDay": 608,
+    "timeWeek": 600,
+    "timeMonth": 1093,
+    "timeYear": 1093,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "requests",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 632,
-    "timeDay": 578,
-    "timeWeek": 672,
-    "timeMonth": 632,
-    "timeYear": 632,
-    "dailyMinutesDown": {
-      "2023-02-06": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 635,
+    "timeDay": 637,
+    "timeWeek": 671,
+    "timeMonth": 635,
+    "timeYear": 635,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Media Fetcher",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 608,
-    "timeDay": 511,
-    "timeWeek": 607,
-    "timeMonth": 608,
-    "timeYear": 608,
+    "time": 611,
+    "timeDay": 683,
+    "timeWeek": 605,
+    "timeMonth": 611,
+    "timeYear": 611,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 594,
-    "timeDay": 489,
-    "timeWeek": 610,
-    "timeMonth": 594,
-    "timeYear": 594,
+    "time": 597,
+    "timeDay": 668,
+    "timeWeek": 604,
+    "timeMonth": 597,
+    "timeYear": 597,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 590,
-    "timeDay": 513,
+    "time": 594,
+    "timeDay": 672,
     "timeWeek": 597,
-    "timeMonth": 590,
-    "timeYear": 590,
+    "timeMonth": 594,
+    "timeYear": 594,
     "dailyMinutesDown": {}
   }
 ]
