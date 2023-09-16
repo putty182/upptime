@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "85.21%",
-    "uptimeWeek": "97.60%",
-    "uptimeMonth": "98.94%",
-    "uptimeYear": "99.86%",
+    "uptime": "99.80%",
+    "uptimeDay": "70.06%",
+    "uptimeWeek": "95.43%",
+    "uptimeMonth": "98.44%",
+    "uptimeYear": "99.80%",
     "time": 646,
-    "timeDay": 819,
-    "timeWeek": 670,
+    "timeDay": 811,
+    "timeWeek": 668,
     "timeMonth": 646,
     "timeYear": 646,
     "dailyMinutesDown": {
-      "2023-09-15": 213,
+      "2023-09-16": 72,
+      "2023-09-15": 360,
       "2023-09-14": 29,
       "2023-09-07": 79,
       "2023-09-06": 145
@@ -33,11 +34,11 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 645,
-    "timeDay": 714,
-    "timeWeek": 645,
-    "timeMonth": 645,
-    "timeYear": 645,
+    "time": 649,
+    "timeDay": 709,
+    "timeWeek": 641,
+    "timeMonth": 649,
+    "timeYear": 649,
     "dailyMinutesDown": {
       "2023-09-14": 29
     }
@@ -53,11 +54,11 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 594,
-    "timeDay": 691,
-    "timeWeek": 602,
-    "timeMonth": 594,
-    "timeYear": 594,
+    "time": 598,
+    "timeDay": 652,
+    "timeWeek": 600,
+    "timeMonth": 598,
+    "timeYear": 598,
     "dailyMinutesDown": {
       "2023-09-14": 29
     }
@@ -73,11 +74,11 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 606,
-    "timeDay": 677,
-    "timeWeek": 635,
-    "timeMonth": 606,
-    "timeYear": 606,
+    "time": 609,
+    "timeDay": 648,
+    "timeWeek": 633,
+    "timeMonth": 609,
+    "timeYear": 609,
     "dailyMinutesDown": {
       "2023-09-14": 29
     }
@@ -93,11 +94,11 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 620,
-    "timeDay": 695,
-    "timeWeek": 609,
-    "timeMonth": 620,
-    "timeYear": 620,
+    "time": 622,
+    "timeDay": 651,
+    "timeWeek": 605,
+    "timeMonth": 622,
+    "timeYear": 622,
     "dailyMinutesDown": {
       "2023-09-14": 29
     }
@@ -113,11 +114,11 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
-    "time": 591,
-    "timeDay": 733,
+    "time": 600,
+    "timeDay": 725,
     "timeWeek": 611,
-    "timeMonth": 591,
-    "timeYear": 591,
+    "timeMonth": 600,
+    "timeYear": 600,
     "dailyMinutesDown": {
       "2023-09-14": 29
     }
