@@ -6,15 +6,15 @@
     "slug": "plex",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "62.22%",
+    "uptimeDay": "92.54%",
     "uptimeWeek": "94.31%",
     "uptimeMonth": "98.18%",
     "uptimeYear": "99.77%",
-    "time": 647,
-    "timeDay": 781,
-    "timeWeek": 667,
-    "timeMonth": 647,
-    "timeYear": 647,
+    "time": 655,
+    "timeDay": 746,
+    "timeWeek": 677,
+    "timeMonth": 655,
+    "timeYear": 655,
     "dailyMinutesDown": {
       "2023-09-16": 184,
       "2023-09-15": 360,
@@ -34,11 +34,11 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 649,
-    "timeDay": 709,
+    "time": 653,
+    "timeDay": 706,
     "timeWeek": 641,
-    "timeMonth": 649,
-    "timeYear": 649,
+    "timeMonth": 653,
+    "timeYear": 653,
     "dailyMinutesDown": {
       "2023-09-14": 29
     }
@@ -54,11 +54,11 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 598,
-    "timeDay": 652,
-    "timeWeek": 600,
-    "timeMonth": 598,
-    "timeYear": 598,
+    "time": 600,
+    "timeDay": 624,
+    "timeWeek": 595,
+    "timeMonth": 600,
+    "timeYear": 600,
     "dailyMinutesDown": {
       "2023-09-14": 29
     }
@@ -74,11 +74,11 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 609,
-    "timeDay": 648,
-    "timeWeek": 633,
-    "timeMonth": 609,
-    "timeYear": 609,
+    "time": 610,
+    "timeDay": 624,
+    "timeWeek": 625,
+    "timeMonth": 610,
+    "timeYear": 610,
     "dailyMinutesDown": {
       "2023-09-14": 29
     }
@@ -94,11 +94,11 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 622,
-    "timeDay": 651,
-    "timeWeek": 605,
-    "timeMonth": 622,
-    "timeYear": 622,
+    "time": 623,
+    "timeDay": 636,
+    "timeWeek": 599,
+    "timeMonth": 623,
+    "timeYear": 623,
     "dailyMinutesDown": {
       "2023-09-14": 29
     }
@@ -114,11 +114,11 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
-    "time": 600,
-    "timeDay": 725,
-    "timeWeek": 611,
-    "timeMonth": 600,
-    "timeYear": 600,
+    "time": 604,
+    "timeDay": 662,
+    "timeWeek": 601,
+    "timeMonth": 604,
+    "timeYear": 604,
     "dailyMinutesDown": {
       "2023-09-14": 29
     }
