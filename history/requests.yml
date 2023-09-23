@@ -1,7 +1,7 @@
 url: $SITES_URL_REQUESTS
-status: up
-code: 200
-responseTime: 686
-lastUpdated: 2023-09-23T15:55:42.729Z
+status: down
+code: 503
+responseTime: 622
+lastUpdated: 2023-09-23T22:15:49.995Z
 startTime: 2023-01-22T12:13:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
