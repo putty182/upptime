@@ -1,7 +1,7 @@
 url: $SITES_URL_STORAGE
-status: degraded
+status: up
 code: 200
-responseTime: 4910
-lastUpdated: 2023-09-23T23:15:55.545Z
+responseTime: 821
+lastUpdated: 2023-09-24T01:18:50.094Z
 startTime: 2023-06-02T13:04:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
