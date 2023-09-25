@@ -1,7 +1,7 @@
 url: $SITES_URL_TV_MANAGER
-status: up
-code: 200
-responseTime: 497
-lastUpdated: 2023-09-24T23:06:11.155Z
+status: down
+code: 503
+responseTime: 600
+lastUpdated: 2023-09-25T10:57:25.666Z
 startTime: 2023-01-22T12:13:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
