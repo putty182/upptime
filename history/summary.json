@@ -12,7 +12,7 @@
     "uptimeYear": "99.76%",
     "time": 646,
     "timeDay": 565,
-    "timeWeek": 629,
+    "timeWeek": 594,
     "timeMonth": 646,
     "timeYear": 646,
     "dailyMinutesDown": {
@@ -38,7 +38,7 @@
     "uptimeYear": "99.98%",
     "time": 652,
     "timeDay": 640,
-    "timeWeek": 651,
+    "timeWeek": 649,
     "timeMonth": 652,
     "timeYear": 652,
     "dailyMinutesDown": {
@@ -60,7 +60,7 @@
     "uptimeYear": "99.77%",
     "time": 604,
     "timeDay": 620,
-    "timeWeek": 608,
+    "timeWeek": 605,
     "timeMonth": 604,
     "timeYear": 604,
     "dailyMinutesDown": {
@@ -82,7 +82,7 @@
     "uptimeYear": "99.98%",
     "time": 607,
     "timeDay": 579,
-    "timeWeek": 603,
+    "timeWeek": 595,
     "timeMonth": 607,
     "timeYear": 607,
     "dailyMinutesDown": {
@@ -104,7 +104,7 @@
     "uptimeYear": "99.98%",
     "time": 613,
     "timeDay": 582,
-    "timeWeek": 598,
+    "timeWeek": 593,
     "timeMonth": 613,
     "timeYear": 613,
     "dailyMinutesDown": {
@@ -120,13 +120,13 @@
     "slug": "storage",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "88.49%",
+    "uptimeDay": "96.73%",
     "uptimeWeek": "97.98%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.86%",
     "time": 798,
-    "timeDay": 1975,
-    "timeWeek": 960,
+    "timeDay": 1242,
+    "timeWeek": 975,
     "timeMonth": 798,
     "timeYear": 798,
     "dailyMinutesDown": {
