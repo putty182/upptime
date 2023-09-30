@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "97.02%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.91%",
+    "uptimeDay": "77.93%",
+    "uptimeWeek": "96.85%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.91%",
     "time": 1151,
-    "timeDay": 5709,
-    "timeWeek": 2164,
+    "timeDay": 7439,
+    "timeWeek": 2290,
     "timeMonth": 1151,
     "timeYear": 1151,
     "dailyMinutesDown": {
-      "2023-09-29": 43
+      "2023-09-30": 72,
+      "2023-09-29": 245
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "requests",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "97.09%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.91%",
+    "uptimeDay": "78.01%",
+    "uptimeWeek": "96.86%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.91%",
     "time": 1155,
-    "timeDay": 3293,
-    "timeWeek": 1656,
+    "timeDay": 3681,
+    "timeWeek": 1704,
     "timeMonth": 1155,
     "timeYear": 1155,
     "dailyMinutesDown": {
-      "2023-09-29": 42
+      "2023-09-30": 72,
+      "2023-09-29": 244
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "media-fetcher",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "92.70%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.89%",
+    "uptimeDay": "73.62%",
+    "uptimeWeek": "96.23%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.89%",
     "time": 1150,
-    "timeDay": 3705,
-    "timeWeek": 1694,
+    "timeDay": 4239,
+    "timeWeek": 1748,
     "timeMonth": 1150,
     "timeYear": 1150,
     "dailyMinutesDown": {
-      "2023-09-29": 105
+      "2023-09-30": 72,
+      "2023-09-29": 308
     }
   },
   {
@@ -65,18 +68,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tv-manager",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "92.71%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.89%",
+    "uptimeDay": "73.62%",
+    "uptimeWeek": "96.23%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.89%",
     "time": 1146,
-    "timeDay": 5814,
-    "timeWeek": 1765,
+    "timeDay": 7580,
+    "timeWeek": 1831,
     "timeMonth": 1146,
     "timeYear": 1146,
     "dailyMinutesDown": {
-      "2023-09-29": 105
+      "2023-09-30": 72,
+      "2023-09-29": 307
     }
   },
   {
@@ -85,18 +89,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "movie-manager",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "92.71%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.89%",
+    "uptimeDay": "73.63%",
+    "uptimeWeek": "96.23%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.89%",
     "time": 1225,
-    "timeDay": 4775,
-    "timeWeek": 2087,
+    "timeDay": 5836,
+    "timeWeek": 2198,
     "timeMonth": 1225,
     "timeYear": 1225,
     "dailyMinutesDown": {
-      "2023-09-29": 105
+      "2023-09-30": 72,
+      "2023-09-29": 307
     }
   },
   {
@@ -105,18 +110,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "storage",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "97.39%",
-    "uptimeWeek": "98.24%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.74%",
+    "uptimeDay": "78.31%",
+    "uptimeWeek": "95.51%",
+    "uptimeMonth": "98.97%",
+    "uptimeYear": "99.74%",
     "time": 1284,
-    "timeDay": 3473,
-    "timeWeek": 1854,
+    "timeDay": 3885,
+    "timeWeek": 1901,
     "timeMonth": 1284,
     "timeYear": 1284,
     "dailyMinutesDown": {
-      "2023-09-29": 38,
+      "2023-09-30": 72,
+      "2023-09-29": 240,
       "2023-09-24": 96,
       "2023-09-23": 44
     }
