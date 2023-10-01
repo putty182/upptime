@@ -1,7 +1,7 @@
 url: $SITES_URL_DOWNLOADS
-status: up
-code: 200
-responseTime: 936
-lastUpdated: 2023-10-01T15:13:26.344Z
+status: down
+code: 521
+responseTime: 347
+lastUpdated: 2023-10-01T16:44:28.666Z
 startTime: 2023-01-22T12:23:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
