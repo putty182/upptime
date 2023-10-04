@@ -1,7 +1,7 @@
 url: $SITES_URL_REQUESTS
-status: degraded
-code: 523
-responseTime: 3139
-lastUpdated: 2023-10-04T14:30:02.939Z
+status: up
+code: 200
+responseTime: 230
+lastUpdated: 2023-10-04T14:55:58.945Z
 startTime: 2023-01-22T12:13:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
