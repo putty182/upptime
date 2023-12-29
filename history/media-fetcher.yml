@@ -1,7 +1,7 @@
 url: $SITES_URL_DOWNLOADS
-status: degraded
+status: up
 code: 200
-responseTime: 2143
-lastUpdated: 2023-12-29T15:11:43.594Z
+responseTime: 877
+lastUpdated: 2023-12-29T15:26:13.749Z
 startTime: 2023-01-22T12:23:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
