@@ -1,7 +1,7 @@
 url: $SITES_URL_TV_MANAGER
-status: degraded
-code: 525
-responseTime: 21584
-lastUpdated: 2024-01-02T14:44:38.976Z
+status: up
+code: 200
+responseTime: 950
+lastUpdated: 2024-01-02T15:15:35.128Z
 startTime: 2023-01-22T12:13:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
