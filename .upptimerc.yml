@@ -4,26 +4,19 @@ repo: upptime
 sites:
   - name: Plex
     url: $SITES_URL_PLEX
-    maxResponseTime: 1000
+    maxResponseTime: 2000
   - name: Requests
     url: $SITES_URL_REQUESTS
-    maxResponseTime: 1000
+    maxResponseTime: 2000
   - name: Media Fetcher
     url: $SITES_URL_DOWNLOADS
-    maxResponseTime: 1000
+    maxResponseTime: 2000
   - name: TV Manager
     url: $SITES_URL_TV_MANAGER
-    maxResponseTime: 1000
+    maxResponseTime: 2000
   - name: Movie Manager
     url: $SITES_URL_MOVIE_MANAGER
-    maxResponseTime: 1000
-  - name: Storage
-    url: $SITES_URL_STORAGE
-    maxResponseTime: 1000
-    method: POST
-    headers:
-      - "$SITES_AUTHZ_STORAGE"
-    __dangerous__body_down_if_text_missing: '"result": "AOK\n"'
+    maxResponseTime: 2000
 
 status-website:
   cname: status.c17.in
