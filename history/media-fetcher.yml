@@ -1,7 +1,7 @@
 url: $SITES_URL_DOWNLOADS
-status: down
+status: degraded
 code: 523
-responseTime: 1366
-lastUpdated: 2024-01-06T17:52:13.356Z
+responseTime: 2800
+lastUpdated: 2024-01-06T18:14:29.215Z
 startTime: 2023-01-22T12:23:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
