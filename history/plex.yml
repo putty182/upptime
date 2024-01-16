@@ -1,7 +1,7 @@
 url: $SITES_URL_PLEX
-status: up
-code: 200
-responseTime: 978
-lastUpdated: 2024-01-15T23:07:35.917Z
+status: degraded
+code: 525
+responseTime: 2647
+lastUpdated: 2024-01-16T21:28:15.052Z
 startTime: 2023-01-22T12:13:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
