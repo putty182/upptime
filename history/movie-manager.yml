@@ -1,7 +1,7 @@
 url: $SITES_URL_MOVIE_MANAGER
-status: up
+status: degraded
 code: 200
-responseTime: 978
-lastUpdated: 2024-01-18T23:08:13.461Z
+responseTime: 4087
+lastUpdated: 2024-01-19T17:31:48.862Z
 startTime: 2023-01-22T12:13:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
